@@ -2,7 +2,7 @@
 
 ### Running the Application
 
-Run com.in28minutes.rest.webservices.restfulwebservices.RestfulWebServicesApplication as a Java Application.
+Run RestfulWebServicesApplication as a Java Application.
 
 - http://localhost:8080/hello-world
 
@@ -16,10 +16,10 @@ Hello World
 {"message":"Hello World"}
 ```
 
-- http://localhost:8080/hello-world/path-variable/in28minutes
+- http://localhost:8080/hello-world/path-variable/Eric
 
 ```json
-{"message":"Hello World, in28minutes"}
+{"message":"Hello World, Eric"}
 ```
 
 ### Plugin configuration
@@ -45,7 +45,7 @@ Hello World
 	<configuration>
 		<schemaVersion>V2</schemaVersion>
 		<resourceGroup>hello-world-rest-api-rg</resourceGroup>
-		<appName>hello-world-rest-api-in28minutes</appName>
+		<appName>hello-world-rest-api-elsior</appName>
 		<pricingTier>B1</pricingTier>
 		<region>westeurope</region>
 		<appSettings>
