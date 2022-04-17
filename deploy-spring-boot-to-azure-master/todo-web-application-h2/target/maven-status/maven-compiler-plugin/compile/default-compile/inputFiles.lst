@@ -1,0 +1,9 @@
+/home/elfof/Documents/perso/Azure-Web-apps/deploy-spring-boot-to-azure-master/todo-web-application-h2/src/main/java/com/springboot/web/model/Todo.java
+/home/elfof/Documents/perso/Azure-Web-apps/deploy-spring-boot-to-azure-master/todo-web-application-h2/src/main/java/com/springboot/web/service/TodoRepository.java
+/home/elfof/Documents/perso/Azure-Web-apps/deploy-spring-boot-to-azure-master/todo-web-application-h2/src/main/java/com/springboot/web/security/SecurityConfiguration.java
+/home/elfof/Documents/perso/Azure-Web-apps/deploy-spring-boot-to-azure-master/todo-web-application-h2/src/main/java/com/springboot/web/EnvironmentConfigurationLogger.java
+/home/elfof/Documents/perso/Azure-Web-apps/deploy-spring-boot-to-azure-master/todo-web-application-h2/src/main/java/com/springboot/web/controller/ErrorController.java
+/home/elfof/Documents/perso/Azure-Web-apps/deploy-spring-boot-to-azure-master/todo-web-application-h2/src/main/java/com/springboot/web/controller/LogoutController.java
+/home/elfof/Documents/perso/Azure-Web-apps/deploy-spring-boot-to-azure-master/todo-web-application-h2/src/main/java/com/springboot/web/SpringBootFirstWebApplication.java
+/home/elfof/Documents/perso/Azure-Web-apps/deploy-spring-boot-to-azure-master/todo-web-application-h2/src/main/java/com/springboot/web/controller/TodoController.java
+/home/elfof/Documents/perso/Azure-Web-apps/deploy-spring-boot-to-azure-master/todo-web-application-h2/src/main/java/com/springboot/web/controller/WelcomeController.java
